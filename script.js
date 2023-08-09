@@ -9,7 +9,7 @@ const person = {
 
 const team = players;
 const team1 = [].concat(players);
-const cap1 = [].concat(person);
+const cap1 = person;
 
 window.players = players;
 window.person = person;
